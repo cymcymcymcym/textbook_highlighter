@@ -1,0 +1,6 @@
+PyMuPDF==1.24.9
+pikepdf==9.1.0
+pdfplumber==0.11.2
+Pillow==10.4.0
+scikit-learn==1.5.1
+tensorflow==2.12
